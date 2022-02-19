@@ -1,6 +1,6 @@
 # my_cv_app
 
-A new Flutter project.
+A basic cv page which created by flutter.
 
 ## Getting Started
 
